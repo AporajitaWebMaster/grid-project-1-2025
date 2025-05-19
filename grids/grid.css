@@ -35,7 +35,7 @@
 }
 
 .image-1{
-    background-color: blanchedalmond;
+    background-color: pink;
     height: 400px;
     width: 500px;
     text-align: center;
@@ -75,7 +75,7 @@ border-radius: 5px;
 }*/
 
 .image-2{
-background-color: blanchedalmond;
+background-color: blueviolet;
     height: 400px;
     width: 500px;
     text-align: center;
@@ -96,7 +96,7 @@ border-radius: 5px;
 
 .image-3{
     
-background-color: blanchedalmond;
+background-color: palevioletred;
     height: 400px;
     width: 500px;
     text-align: center;
@@ -117,7 +117,7 @@ border-radius: 5px;
 
 .image-4{
     
-background-color: blanchedalmond;
+background-color: violet;
     height: 400px;
     width: 500px;
     text-align: center;
@@ -139,7 +139,7 @@ border-radius: 5px;
 
 .image-5{
     
-background-color: blanchedalmond;
+background-color: plum;
     height: 400px;
     width: 500px;
     text-align: center;
@@ -161,7 +161,7 @@ border-radius: 5px;
 
 .image-6{
     
-background-color: blanchedalmond;
+background-color: rgba(128, 0, 128, 0.779);
   height: 400px;
     width: 500px;
     text-align: center;
@@ -187,30 +187,48 @@ border-radius: 5px;
     font-size: 35px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 h1{
     font-size: 24px;
 }
 p{
     font-size: 20px;
 }
+.footer{
+    margin-top: 20px;
+    background-color: pink;
+    padding: 10px;
+   justify-content: center;
+}
 
 
 
+.footer-1 {
+    text-align: center;
+
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}
+.icons{
+    display: flex;
+    gap: 12px;
+    margin-top: 90px;
+
+}
+.icons img{
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+}
 
 
 
